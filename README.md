@@ -39,6 +39,6 @@ Para ajudar a memorizar e como forma de estudo também.
 - Tenho muita vontade de aprender **Libras** (Língua Brasileira de Sinais) para me comunicar melhor e ampliar minha inclusão social e profissional;
 - Estou sempre buscando melhorar minha organização e produtividade;
 
--->
+---
 
-✨ _"A curiosidade move o mundo."_  
+<h1 align="center"> ✨ "A curiosidade move o mundo." ✨  </h1>
